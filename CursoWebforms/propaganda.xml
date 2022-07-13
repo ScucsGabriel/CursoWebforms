@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="https://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>~/Imagens/logo.png</ImageUrl>
+    <NavigateUrl>https://www.palmeiras.com.br/</NavigateUrl>
+    <AlternateText>Elenco</AlternateText>
+    <Impressions>90</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Imagens/tv.jpg</ImageUrl>
+    <NavigateUrl>https://www.youtube.com/PALMEIRAS</NavigateUrl>
+    <AlternateText>TV</AlternateText>
+    <Impressions>50</Impressions>
+  </Ad>
+</Advertisements>
